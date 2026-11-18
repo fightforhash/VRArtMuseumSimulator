@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.svg" alt="VR Art Museum logo" width="520">
+</p>
+
 # VR Art Museum Simulator
 
 ![VR Art Museum Screenshot](Screenshot/IMG_8988.jpg)
